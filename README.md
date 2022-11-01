@@ -6,4 +6,4 @@ Nele também podemos ver a checagem de produtos em estoque e a verificação da 
 
 # Modelo
 
-![Modelagem](E-commerce.png)
+![Modelagem](model/E-commerce.png)
